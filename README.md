@@ -17,3 +17,4 @@ Model is fine-tuned using lawyer instruct dataset to be more percise but might l
 ## Links
 - [GitHub](https://github.com/GHuyHuynh/fine-tune-flanT5-lawyer-)
 - [Hugging Face](https://huggingface.co/huyhuynh1502/flanT5_lawyer)
+- [Google Collab](https://colab.research.google.com/drive/1GThcbXOQNnHSgm813bh9jUJ6BcqtnnZ_?usp=sharing)
