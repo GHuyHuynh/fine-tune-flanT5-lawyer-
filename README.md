@@ -15,5 +15,5 @@ Assignment of Shiftkey Labs Gen AI
 Model is fine-tuned using lawyer instruct dataset to be more percise but might lose some details during summarization
 
 ## Links
-[GitHub](https://github.com/GHuyHuynh/fine-tune-flanT5-lawyer-)
-[Hugging Face](https://huggingface.co/huyhuynh1502/flanT5_lawyer)
+- [GitHub](https://github.com/GHuyHuynh/fine-tune-flanT5-lawyer-)
+- [Hugging Face](https://huggingface.co/huyhuynh1502/flanT5_lawyer)
